@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\Berättelse.csproj": {}
+    "C:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\Berättelse.csproj": {}
   },
   "projects": {
-    "c:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\Berättelse.csproj": {
+    "C:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\Berättelse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\Berättelse.csproj",
+        "projectUniqueName": "C:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\Berättelse.csproj",
         "projectName": "Berättelse",
-        "projectPath": "c:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\Berättelse.csproj",
+        "projectPath": "C:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\Berättelse.csproj",
         "packagesPath": "C:\\Users\\baltazar.biverstal\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\obj\\",
+        "outputPath": "C:\\Users\\baltazar.biverstal\\Documents\\Programering1\\Berättelse\\Berättelse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

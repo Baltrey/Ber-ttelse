@@ -1,0 +1,15 @@
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\bin\Debug\net6.0\Berättelse.exe
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\bin\Debug\net6.0\Berättelse.deps.json
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\bin\Debug\net6.0\Berättelse.runtimeconfig.json
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\bin\Debug\net6.0\Berättelse.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\bin\Debug\net6.0\Berättelse.pdb
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\Berättelse.csproj.AssemblyReference.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\Berättelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\Berättelse.AssemblyInfoInputs.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\Berättelse.AssemblyInfo.cs
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\Berättelse.csproj.CoreCompileInputs.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\Berättelse.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\refint\Berättelse.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\Berättelse.pdb
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\Berättelse.genruntimeconfig.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Berättelse\Berättelse\obj\Debug\net6.0\ref\Berättelse.dll
